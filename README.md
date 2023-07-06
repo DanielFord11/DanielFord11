@@ -1,4 +1,4 @@
-[![MasterHead]([[https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif))]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/be832922391491.58c25558f0fe7.gif)]
 <h1 align="center">Hi 👋, I'm Daniel Ford</h1>
 <h3 align="center">A Product Manager with a passion for Data Science</h3>
 
