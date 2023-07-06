@@ -1,8 +1,5 @@
-[![MasterHead](https://tenor.com/view/background-gif-26550124)]
 <h1 align="center">Hi 👋, I'm Daniel Ford</h1>
 <h3 align="center">A Product Manager with a passion for Data Science</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielford11" alt="danielford11" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS, React, and Full Stack Development**
 
