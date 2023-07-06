@@ -1,3 +1,4 @@
+[![MasterHead](https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif)]
 <h1 align="center">Hi 👋, I'm Daniel Ford</h1>
 <h3 align="center">A Product Manager with a passion for Data Science</h3>
 
